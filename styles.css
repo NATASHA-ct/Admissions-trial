@@ -1,3 +1,12 @@
+body{
+    background-color: rgb(155, 155, 177);
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+}
+
+
 #image{
  max-width: 100%;
   height: auto;
